@@ -14,7 +14,7 @@ This project demonstrates GUI programming in Java and makes use of Java Swing an
 
 ---
 🛠️ Built With
-Java
- - Core language
-Swing
- - GUI framework
+- Java
+Core language
+- Swing
+GUI framework
